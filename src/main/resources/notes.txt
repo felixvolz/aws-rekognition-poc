@@ -1,0 +1,5 @@
+C:\Users\felix\Documents\GitHub\awsrekognitionpoc>aws s3api get-bucket-location --bucket fv-rekognit
+ion-bucket
+{
+    "LocationConstraint": "us-east-2"
+}
