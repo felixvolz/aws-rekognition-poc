@@ -5,3 +5,5 @@ ion-bucket
 }
 
 https://docs.aws.amazon.com/rekognition/latest/dg/image-best-practices.html
+
+https://docs.aws.amazon.com/lambda/latest/dg/with-s3-example.html
