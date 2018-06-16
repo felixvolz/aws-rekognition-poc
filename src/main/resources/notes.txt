@@ -3,3 +3,5 @@ ion-bucket
 {
     "LocationConstraint": "us-east-2"
 }
+
+https://docs.aws.amazon.com/rekognition/latest/dg/image-best-practices.html

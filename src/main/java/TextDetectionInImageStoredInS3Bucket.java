@@ -10,7 +10,7 @@ import java.util.List;
 
 
 
-public class TextDetectionInImage {
+public class TextDetectionInImageStoredInS3Bucket {
 
    public static void main(String[] args) throws Exception {
 
